@@ -1,0 +1,59 @@
+body { text-align: center;
+      font-family: 'Montserrat', sans-serif;}
+
+.center{
+  width: 100%;
+  background-color: #D8D8D8;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+tr { font-size: 1rem;}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: #FF6C00;
+}
+
+.activities{
+
+}
+
+.acti{
+  width:100%;
+  border-spacing: 30px;
+}
+
+.tt{
+  font-size: 2rem;
+  margin: 50px;
+}
+
+.wtl{
+  font-size: 2rem;
+}
+
+.cn{
+  font-size: 20px;
+}
+
+.contact{
+  color: white;
+  background-color: #2C3639;
+}
+
+.table{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}

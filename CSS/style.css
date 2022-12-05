@@ -1,0 +1,106 @@
+body { text-align: center;
+      font-family: 'Montserrat', sans-serif;}
+
+
+/*.blue{background-color: #8CC0DE;}
+.red{ background-color: #FF6464;}
+.green{background-color: #B3FFAE;}
+.yellow{ background-color: #FFF38C;}*/
+
+.center{width:100%;
+        text-align: center;}
+
+h1{ margin: 0 0 50px 0 ;
+    font-size: 3rem;}
+
+table{ width: 100;
+      margin-bottom: 20px;}
+
+tr { font-size: 1.5rem;}
+
+p{line-height: 1.5;
+}
+
+a{  text-decoration: none;
+    color:black;
+}
+
+.pic{  float: right;
+        margin: 40px;}
+
+.description{
+  font-size: 1.4rem;
+  line-height: 1.9;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 50px;
+}
+
+.cn{
+  font-size: 15px;
+}
+
+.table{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact{
+  color: white;
+  background-color: #2C3639;
+}
+
+
+.desc{
+  width:100%;
+}
+
+.des{
+  background-color: #CDF0EA;;
+}
+
+.activities{
+  background-color: #FFE1E1;
+}
+
+.acti{
+  width:100%;
+  border-spacing: 30px;
+}
+
+.tt{
+  font-size: 2rem;
+  margin: 50px;
+}
+
+.wtl{
+  font-size: 2rem;
+}
+
+.why{
+  background-color: #E7FBBE;
+}
+
+.ft{
+  font-size: 2rem;
+  text-align: justify;
+  margin-left: 500px;
+}
+
+.ma{
+  margin-bottom: 50px;
+}
+
+.map{
+  background-color: #647E68;
+  color:white;
+}
+
+.add{
+  font-size: 1.2rem;
+}
+
+.img{
+ margin-right: 30px;
+}

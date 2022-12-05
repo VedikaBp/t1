@@ -1,0 +1,81 @@
+body { text-align: center;
+      font-family: 'Montserrat', sans-serif;}
+
+.center{
+  width: 100%;
+  background-color: #D8D8D8;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+tr { font-size: 1rem;}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: #FF6C00;
+}
+
+  .add{
+    font-size: 1.2rem;
+  }
+
+  .contact{
+    color: white;
+    background-color: #2C3639;
+  }
+
+  .cn{
+    font-size: 20px;
+  }
+
+  .table{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .img{
+   margin-right: 30px;
+ }
+
+ input[type=text], select, textarea {
+  width: 60%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid gray; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #54BAB9;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 60%
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #54BAB9;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  padding: 20px;
+  text-align: left;
+  color:black;
+  width: 100%;
+}
