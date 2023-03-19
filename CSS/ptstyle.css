@@ -1,0 +1,92 @@
+body { text-align: center;
+      font-family: 'Montserrat', sans-serif;}
+
+.center{
+  width: 100%;
+  background-color: #D8D8D8;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+tr { font-size: 1rem;}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: #FF6C00;
+}
+
+.pta{
+  background-color: lavender;
+  width: 50%;
+  font-size: 2rem;
+  position: relative;
+  padding:0px 50px 0px 50px;
+  font-size: 30px;
+}
+
+.ptb{
+  background-color: lavender;
+  width: 50%;
+  font-size: 2rem;
+  position: relative;
+  padding:0px 50px 0px 50px;
+  font-size: 30px;
+}
+
+.pt1{
+  background-color: #AAE3E2;
+  font-size: 30px;
+  padding: 0px 0px 25px 0px;
+}
+
+.pt2{
+  background-color: #AAE3E2;
+  font-size: 30px;
+  padding: 0px 0px 25px 0px;
+}
+
+.con{
+  font-size: 35px;
+}
+
+.contact{
+  color: white;
+  background-color: #2C3639;
+}
+
+.add{
+  font-size: 1.2rem;
+}
+
+.table{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cn{
+  font-size: 15px;
+}
+
+.img{
+ margin-right: 30px;
+}
+
+.l{
+  text-decoration: none;
+  color: #525E75;
+}
+
+.l:hover{
+    color: #FF6C00;
+}
